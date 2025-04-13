@@ -14,6 +14,8 @@ This project provides functionalities for calculating discounts, computing net p
 
 - Generating Code Coverage Reports
 
+- UML Diagram
+
 - Integrated Endpoints
 
 **Prerequisites**
@@ -71,6 +73,10 @@ After the build completes, open the following file in your browser to view the r
 target/site/jacoco/index.html
 
 The report provides detailed insights into code coverage metrics, including line, branch, and method coverage.​
+
+**UML Diagram**
+
+The UML Diagram of all the class relationships is provided in the root folder of the project
 
 **Integrated Endpoints**
 
